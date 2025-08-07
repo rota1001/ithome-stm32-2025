@@ -1,6 +1,6 @@
 !/bin/sh
 
-Build python2
+# Build python2
 sudo apt install build-essential
 wget https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz
 tar -zxvf Python-2.7.18.tgz
